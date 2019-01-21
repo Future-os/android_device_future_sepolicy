@@ -3,9 +3,6 @@
 # inherit from Future
 #
 
-BOARD_PLAT_PUBLIC_SEPOLICY_DIR += \
-    device/future/sepolicy/common/public
-
 BOARD_PLAT_PRIVATE_SEPOLICY_DIR += \
     device/future/sepolicy/common/private
 
